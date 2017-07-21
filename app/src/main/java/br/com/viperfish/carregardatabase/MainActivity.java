@@ -8,6 +8,8 @@ import java.io.IOException;
 import java.sql.SQLException;
 import java.util.List;
 
+//DICA DISPONIVEL EM: http://theclub.com.br/Restrito/Revistas/201201/andr1201.aspx
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
